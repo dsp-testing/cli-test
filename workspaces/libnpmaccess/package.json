@@ -17,9 +17,9 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
     "@npmcli/mock-registry": "^1.0.0",
-    "@npmcli/template-oss": "4.12.0",
+    "@npmcli/template-oss": "4.28.1",
     "nock": "^13.3.0",
-    "tap": "^16.3.4"
+    "tap": "^21.5.0"
   },
   "repository": {
     "type": "git",
